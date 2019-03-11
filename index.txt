@@ -18,6 +18,7 @@
       <li>push</li>
       <li>pull</li>
       <li>push.open</li>
+      <li>push.2</li>
     </ul>
   </body>
 </html>
