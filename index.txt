@@ -22,6 +22,7 @@
       <li>push.2</li>
       <li>pull.open</li>
       <li>push.egoing</li>
+      <li>conflict.open</li>
     </ul>
   </body>
 </html>
